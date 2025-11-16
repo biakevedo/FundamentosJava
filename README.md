@@ -1,8 +1,8 @@
-Exercícios de Fundamentos de Java
+Fundamentos de Java
 
 Este repositório contém exercícios de revisão dos fundamentos de Java, cobrindo conceitos básicos que são essenciais para qualquer programa Java.
 
-🧩 Conteúdo dos exercícios
+Conteúdo dos exercícios
 
 Variáveis e tipos de dados (int, double, String, boolean)
 
